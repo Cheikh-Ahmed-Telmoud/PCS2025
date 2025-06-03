@@ -1,6 +1,6 @@
 # Analyse des Dynamiques Commerciales et Prédiction des Prix en Mauritanie
 
-Ce projet a été réalisé dans le cadre du module "Calcul Scientifique avec Python", dispensé par le Dr. Mohamed Mahmoud El Benany, au sein de la formation doctorale de l'École Doctorale des Sciences et Technologies de la Faculté des Sciences et Techniques (FST) de l'Université de Nouakchott.
+Ce projet a été réalisé dans le cadre du module **Calcul Scientifique avec Python**, dispensé par le ***Dr. Mohamed Mahmoud El Benany***, au sein de la formation doctorale de **l'École Doctorale des Sciences et Technologies de la Faculté des Sciences et Techniques (FST) de l'Université de Nouakchott**.
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -146,4 +146,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE.md](https://opensource
 
 ## Contact
 
-Pour toute question ou feedback, veuillez contacter Cheikh Abdelkader Ahmed Telmoud cheikhahmedtelmoud@gmail.com.
+Pour toute question ou feedback, veuillez contacter **Cheikh Abdelkader Ahmed Telmoud** ***cheikhahmedtelmoud@gmail.com***.
